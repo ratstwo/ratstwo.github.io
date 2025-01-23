@@ -1,1 +1,2 @@
-The Rats Two Website Source Code!
+The Rats Two Website!
+the Ratswo website is at https://ratstwo.github.io/
